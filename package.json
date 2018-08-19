@@ -1,0 +1,7 @@
+{
+  "name": "scale-to-window",
+  "version": "0.0.1",
+  "description": "Scale and align an HTML element in the browser",
+  "main": "./scaleToWindow.js",
+  "license": "MIT"
+}
